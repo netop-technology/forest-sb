@@ -183,7 +183,66 @@
       ]
     }
   ],
-
+  "alarms" : [
+  {
+    "id": 1,
+    "deviceId": "CO2 Alarm",
+    "deviceName": "17.08.2021 12:05:23",
+    "deviceGroup": "İzmir Balçova Forest",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "deviceId": "Temp Alarm",
+    "deviceGroup": "İzmir Bornova Forest",
+    "deviceName": "17.08.2021 1s2:05:23",
+    "status": "Passive"
+  },
+  {
+    "id": 3,
+    "deviceId": "Wind Alarm",
+    "deviceGroup": "İzmir Menderes Forest",
+    "deviceName": "17.08.2021 12:05:23",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "deviceId": "CO2 Alarm",
+    "deviceGroup": "İzmir Çiğli Forest",
+    "deviceName": "17.08.2021 12:05:23",
+    "status": "Active"
+  }
+],
+  "alarmActivity" : [
+  {
+    "id": 1,
+    "deviceId": "CO2 Alarm",
+    "deviceName": "17.08.2021 12:05:23",
+    "deviceGroup": "CO2 Level Critical",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "deviceId": "Temp Alarm",
+    "deviceGroup": "Hight Temperature Alarm",
+    "deviceName": "17.08.2021 1s2:05:23",
+    "status": "Passive"
+  },
+  {
+    "id": 3,
+    "deviceId": "Wind Alarm",
+    "deviceGroup": "High Wind Warning",
+    "deviceName": "17.08.2021 12:05:23",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "deviceId": "CO2 Alarm",
+    "deviceGroup": "CO2 Level Critical",
+    "deviceName": "17.08.2021 12:05:23",
+    "status": "Active"
+  }
+],
   "profile": {
     "name": "typicode"
   }
