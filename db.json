@@ -1,0 +1,190 @@
+{
+  "devices":  [
+        {
+          id: 1,
+          deviceId: "74-C3-90-35-F0-3B",
+          deviceName: "GW-3243",
+          status: "Alarm",
+          children: [
+            {
+              id: 1,
+              deviceId: "07-b3-8c-e7-14-fc",
+              deviceName: "iNode Temp Sensor",
+              status: "Offline",
+            },
+            {
+              id: 2,
+              deviceId: "ff-f6-48-c5-22-5e",
+              deviceName: "iNode Temp Sensor",
+              status: "Online",
+            },
+            {
+              id: 3,
+              deviceId: "f7-28-86-55-44-5d",
+              deviceName: "iNode Temp Sensor",
+              status: "Online",
+            },
+          ],
+        },
+        {
+          id: 2,
+          deviceId: "74-C3-90-35-F0-3B",
+          deviceName: "GW-4312",
+          status: "Online",
+          children: [
+            {
+              id: 1,
+              deviceId: "07-b3-8c-e7-14-fc",
+              deviceName: "iNode Temp Sensor",
+              status: "Offline",
+            },
+            {
+              id: 2,
+              deviceId: "ff-f6-48-c5-22-5e",
+              deviceName: "iNode Temp Sensor",
+              status: "Offline",
+            },
+            {
+              id: 3,
+              deviceId: "f7-28-86-55-44-5d",
+              deviceName: "iNode Temp Sensor",
+              status: "Online",
+            },
+          ],
+        },
+        {
+          id: 3,
+          deviceId: "12-D2-34-12-F0-4H",
+          deviceName: "GW-4512",
+          status: "Online",
+          children: [
+            {
+              id: 1,
+              deviceId: "07-b3-8c-e7-14-fc",
+              deviceName: "iNode Temp Sensor",
+              status: "Online",
+            },
+            {
+              id: 2,
+              deviceId: "ff-f6-48-c5-22-5e",
+              deviceName: "iNode Temp Sensor",
+              status: "Online",
+            },
+            {
+              id: 3,
+              deviceId: "f7-28-86-55-44-5d",
+              deviceName: "iNode Temp Sensor",
+              status: "Online",
+            },
+          ],
+        },
+        {
+          id: 4,
+          deviceId: "34-D6-24-62-F2-5H",
+          deviceName: "GW-4533",
+          status: "Online",
+          children: [
+            {
+              id: 1,
+              deviceId: "56-b3-8c-e7-14-fc",
+              deviceName: "Co2 Sensor",
+              status: "Online",
+            },
+            {
+              id: 2,
+              deviceId: "12-f6-48-c5-22-5e",
+              deviceName: "Co2 Sensor",
+              status: "Online",
+            },
+            {
+              id: 3,
+              deviceId: "12-28-86-55-44-5d",
+              deviceName: "Co2 Sensor",
+              status: "Online",
+            },
+          ],
+        },
+        {
+          id: 5,
+          deviceId: "54-S2-22-65-E7-1Q",
+          deviceName: "GW-3412",
+          status: "Offline",
+          children: [
+            {
+              id: 1,
+              deviceId: "56-b3-8c-e7-14-fc",
+              deviceName: "iNode Temp Sensor",
+              status: "Online",
+            },
+            {
+              id: 2,
+              deviceId: "12-f6-48-c5-22-5e",
+              deviceName: "iNode Temp Sensor",
+              status: "Offline",
+            },
+            {
+              id: 3,
+              deviceId: "12-28-86-55-44-5d",
+              deviceName: "iNode Temp Sensor",
+              status: "Offline",
+            },
+          ],
+        },
+        {
+          id: 6,
+          deviceId: "56-T2-54-12-B2-6Q",
+          deviceName: "GW-6500",
+          status: "Online",
+          children: [
+            {
+              id: 1,
+              deviceId: "56-b3-8c-e7-14-fc",
+              deviceName: "Co2 Sensor",
+              status: "Offline",
+            },
+            {
+              id: 2,
+              deviceId: "12-f6-48-c5-22-5e",
+              deviceName: "Co2 Sensor",
+              status: "Offline",
+            },
+            {
+              id: 3,
+              deviceId: "12-28-86-55-44-5d",
+              deviceName: "Co2 Sensor",
+              status: "Offline",
+            },
+          ],
+        },
+        {
+          id: 7,
+          deviceId: "34-E1-12-65-C4-7E",
+          deviceName: "GW-4589",
+          status: "Inactive",
+          children: [
+            {
+              id: 1,
+              deviceId: "56-b3-8c-e7-14-fc",
+              deviceName: "Co2 Sensor",
+              status: "Online",
+            },
+            {
+              id: 2,
+              deviceId: "12-f6-48-c5-22-5e",
+              deviceName: "Co2 Sensor",
+              status: "Offline",
+            },
+            {
+              id: 3,
+              deviceId: "12-28-86-55-44-5d",
+              deviceName: "Co2 Sensor",
+              status: "Online",
+            },
+          ],
+        },
+      ],
+ 
+  "profile": {
+    "name": "typicode"
+  }
+}
